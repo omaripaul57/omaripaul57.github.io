@@ -1,5 +1,8 @@
 ## DollarMetro Front-End Software Engineer 
 
+**About DollarMetro:** DollarMetro is comprised of a team of 3 developers (1 Front-End Engineer, 1 Back-End Engineer, and Chairman).  The website is a hybrid social-media and deals based application.  The application user the individual that enjoys searching, shopping, and sharing bargains on all types of products and goods.  The website will have complex relationships connecting users to other users as well as users to information in the form of deals.  DollarMetro is designed to be fun, friendly, and highly interactive. 
+
+
 **Roles & Responsibilities:** Designing the user interface (UI) using appropriate color schemes, dimensions, and features to maximize the quality of the user experience (UX) on DollarMetro.  Developing logos and graphics to be used as specialty icons throughout the DollarMetro website.  Researching and developing solutions for implementing appropriate functionality of all the features (buttons, menus, forms, and etc) of the UI for DollarMetro using React, CSS, JavaScript, and HTML.  Developing the proper calls to the websites application programming interface (API) to ensure that the flow of data is fast, responsive, and logical throughout DollarMetro website.  Working with a back-end engineer to setup the API contract between the front-end and back-end.  Maintaining and updating the website using GitHub source control features (pushing, pulling, and rebasing).    
 
 #### Tech Stack
