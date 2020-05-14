@@ -4,15 +4,15 @@
 
 ### Coding and Software Development 
 
-[DollarMetro](/sample_page)
+[DollarMetro (Web Development)](/sample_page)
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
 ---
-[Deep Learning Brand Recognition Model](/pdf/sample_presentation.pdf)
+[Brand Recognition Model (Deep Learning)](/pdf/sample_presentation.pdf)
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
 ---
-[Project 3 Title](http://example.com/)
+[RPG Style Video Game](http://example.com/)
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
 ---
