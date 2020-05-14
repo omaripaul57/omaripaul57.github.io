@@ -4,21 +4,21 @@
 
 ### Website Development 
 
-[DollarMetro (Web Development)](https://beta.dollarmetro.com/dashboard)   <!--(/sample_page)-->
+[DollarMetro (Front-End)](https://beta.dollarmetro.com/dashboard)   <!--(/sample_page)-->
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
 ---
 
 ### Machine Learning 
 
-[Brand Recognition Model (Deep Learning)](/pdf/sample_presentation.pdf)
+[Deep Learning Brand Recognition Model](/pdf/sample_presentation.pdf)
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
 ---
 
 ### Game Development 
 
-[RPG Style Video Game](/pdf/sample_presentation.pdf)
+[Evil Path (RPG Style Video Game)](/pdf/sample_presentation.pdf)
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
 ---
