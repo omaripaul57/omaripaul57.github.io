@@ -1,7 +1,7 @@
 ## Senior Front End Software Engineer
 
 **Responsibilities:** 
---UX/UI
+-- [UX/UI]
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
