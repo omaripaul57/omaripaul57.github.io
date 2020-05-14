@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Coding and Software Development 
 
-[Project 1 Title](/sample_page)
+[DollarMetro (Lead Frontend Website Developer)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
