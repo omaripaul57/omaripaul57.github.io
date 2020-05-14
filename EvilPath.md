@@ -8,7 +8,7 @@
 
 #### Tech Stack
 
-<img src="images/DL Tech Stack.png?raw=true"/>
+<img src="images/Evil Path Tech Stack.png?raw=true"/>
 
 
 
