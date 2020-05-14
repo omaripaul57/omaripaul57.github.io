@@ -7,7 +7,7 @@
 
 #### Tech Stack
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Website Tech Stack.png?raw=true"/>
 
 
 
