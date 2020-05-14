@@ -1,4 +1,4 @@
-## DollarMetro Front-End Software Engineer 
+## Brand Recognition Deep Learning Model 
 
 **About DollarMetro:** <a href="https://beta.dollarmetro.com/dashboard">DollarMetro</a> is comprised of a team of 3 developers (1 Front-End Engineer, 1 Back-End Engineer, and an Organizational Lead/Chairman).  The website is a hybrid social-media and deals based application.  The application user is the individual that enjoys searching, shopping, and sharing bargains on all types of products and goods.  The website has complex relationships and interactions connecting users to other users as well as users to information in the form of deals.  <a href="https://beta.dollarmetro.com/dashboard">DollarMetro</a> is designed to be fun, friendly, highly interactive, and most importantly a tool to assist the avid deal seeker to find the best price on products. 
 
