@@ -4,7 +4,7 @@
 
 ### Website Development 
 
-[DollarMetro (Front-End)](/sample_page)   <!--(https://beta.dollarmetro.com/dashboard)-->
+[DollarMetro (Front-End)](/DollarMetro)   <!--(https://beta.dollarmetro.com/dashboard)-->
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
 ---
