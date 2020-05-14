@@ -11,7 +11,7 @@
 
 ### Machine Learning 
 
-[Deep Learning Brand Recognition Model](/pdf/sample_presentation.pdf)
+[Deep Learning Brand Recognition Model](/BrandRecogModel)
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
 ---
