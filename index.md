@@ -4,7 +4,7 @@
 
 ### Coding and Software Development 
 
-[DollarMetro (Web Development)](/sample_page)
+[DollarMetro (Web Development)](https://beta.dollarmetro.com/dashboard)   <!--(/sample_page)-->
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
 ---
@@ -12,22 +12,22 @@
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
 ---
-[RPG Style Video Game](http://example.com/)
+[RPG Style Video Game](/pdf/sample_presentation.pdf)
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
 ---
 
-### Category Name 2
+<!--### Category Name 2-->
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<!--- [Project 1 Title](http://example.com/)-->
+<!--- [Project 2 Title](http://example.com/)-->
+<!--- [Project 3 Title](http://example.com/)-->
+<!--- [Project 4 Title](http://example.com/)-->
+<!--- [Project 5 Title](http://example.com/)-->
 
----
+<!---->
 
-
+<!---->
 
 
 <!------->
