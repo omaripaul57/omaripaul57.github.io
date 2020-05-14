@@ -18,7 +18,7 @@
 
 ### Game Development 
 
-[Evil Path (RPG Style Video Game)](/pdf/sample_presentation.pdf)
+[Evil Path (RPG Style Video Game)](/EvilPath)
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
 ---
