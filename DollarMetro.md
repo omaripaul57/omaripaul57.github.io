@@ -7,7 +7,7 @@
 
 **Back-End Roles & Responsibilities:** Designing the data structures and entities (database tables) using Entity Framework.  Migration of the entities into the database to form the tables and the complex relationships between tables.  Building out the API's by implementing specific controllers which contain routes using CRUD operations.  Use of XML to keep code clean and iterative.  Testing the specific routes using PostMan to verify proper call & responses.      
 
-#### Tech Stack
+## Tech Stacks
 
 <img src="images/Website Tech Stack.png?raw=true"/>
 
