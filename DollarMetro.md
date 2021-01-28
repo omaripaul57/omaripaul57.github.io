@@ -9,6 +9,7 @@
 
 ## Front-End Tech Stack
 <img src="images/Website Tech Stack.png?raw=true"/>
+
 ## Back-End Tech Stack
 <img src="images/Backend_DM_Stack.png?raw=true"/>
 
