@@ -5,7 +5,7 @@
 
 **Demo:** NA.    
 
-#### Tech Stack
+## Tech Stack
 
 <img src="images/DL Tech Stack.png?raw=true"/>
 
