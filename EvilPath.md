@@ -6,7 +6,7 @@
 
 **Software Documentation:** [View](/pdf/EvilPath.pdf)   
 
-#### Tech Stack
+## Tech Stack
 
 <img src="images/Evil Path Tech Stack.png?raw=true"/>
 
