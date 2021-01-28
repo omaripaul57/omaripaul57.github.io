@@ -4,7 +4,7 @@
 
 ### Website Development 
 
-[DollarMetro (Full-Stack Software Developer)](/DollarMetro)   <!--(https://beta.dollarmetro.com/dashboard)-->
+[DollarMetro (Full-Stack Software Developer)](/DollarMetro)   <!--(https://dollarmetro.com/dashboard)-->
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
 ---
