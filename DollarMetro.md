@@ -9,7 +9,7 @@
 
 ## Tech Stacks
 
-<img src="images/Website Tech Stack.png?raw=true" style={{scale:"0.5"}}/>
+<img src="images/Website Tech Stack.png?raw=true" style={{transform: "scale(0.5)"}}/>
 
 
 
